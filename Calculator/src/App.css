@@ -1,0 +1,28 @@
+button{
+  width: 3rem;
+  height: 3rem;
+  background-color: rgb(32, 181, 218);
+}
+*{
+  background-color: black;
+}
+h2{
+  padding-bottom: 0;
+}
+.container{
+  width: 200vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container{
+  border: .2rem dotted white;
+  height: 43.5vh;
+}
+input{
+  background-color: gold;
+  width: 12rem;
+  text-align: right;
+}

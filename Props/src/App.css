@@ -1,0 +1,12 @@
+.student{
+    background-color: greenyellow;
+    width: 15rem;
+    
+    
+}
+.student-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

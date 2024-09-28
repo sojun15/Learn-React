@@ -1,0 +1,14 @@
+.all-thing{
+    background-color: rgb(193, 193, 209);
+    width: 20rem;
+}
+
+button{
+    float:right;
+    margin: 0 5px;
+    font-size: large;
+}
+
+/* .kg{
+    
+} */

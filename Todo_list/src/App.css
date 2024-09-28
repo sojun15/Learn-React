@@ -1,0 +1,20 @@
+.row{
+  display: flex;
+  gap: 2rem;
+  margin: 1rem;
+  text-align: left;
+}
+
+.app-jsx{
+  width: 30rem;
+  background-color: green;
+}
+
+button{
+  width: 5rem;
+  font-size: 14px;
+}
+
+.add-button{
+  font-size:14px;
+}
